@@ -1,1 +1,1 @@
-# RxJS
+# Simple Webpack Project Template
